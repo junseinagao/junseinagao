@@ -7,7 +7,9 @@
 
 - My Tech Blog: [https://text.junseinagao.com/](https://text.junseinagao.com/)
 
-- You can see **[my oss contributions](https://github.com/stars/junseinagao/lists/oss-contributions)**
+- You can see [my oss contributions](https://github.com/stars/junseinagao/lists/oss-contributions)
+
+- You can see [my showcase projects I implemented](https://github.com/stars/junseinagao/lists/showcase)
 
 ---
 

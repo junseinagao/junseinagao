@@ -7,6 +7,8 @@
 
 - My Tech Blog: [https://text.junseinagao.com/](https://text.junseinagao.com/)
 
+- You can see **[my oss contributions](https://github.com/stars/junseinagao/lists/oss-contributions)**
+
 ---
 
 <h3 align="left">Connect with me:</h3>

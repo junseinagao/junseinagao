@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm junseinagao</h1>
 <h3 align="center">A Passionate Web Developer specializes in frontend and node.js</h3>
 
-- I'm currently work at **Ateam LifeDesign Inc.**
+- I'm currently work at **KODANSHAtech LCC.**
 
 - I'm very good at **Web Frontend Development (TypeScript, Node.js, React.js)**
 
